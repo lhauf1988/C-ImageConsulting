@@ -1,0 +1,9 @@
+c:\users\lucas\documents\visual studio 2013\Projects\ImageConsulting\ImageConsulting\bin\Debug\ImageConsulting.exe.config
+c:\users\lucas\documents\visual studio 2013\Projects\ImageConsulting\ImageConsulting\obj\Debug\ImageConsulting.csprojResolveAssemblyReference.cache
+c:\users\lucas\documents\visual studio 2013\Projects\ImageConsulting\ImageConsulting\obj\Debug\ImageConsulting.frmImageConsulting.resources
+c:\users\lucas\documents\visual studio 2013\Projects\ImageConsulting\ImageConsulting\obj\Debug\ImageConsulting.Properties.Resources.resources
+c:\users\lucas\documents\visual studio 2013\Projects\ImageConsulting\ImageConsulting\obj\Debug\ImageConsulting.csproj.GenerateResource.Cache
+C:\Users\lucas\documents\visual studio 2013\Projects\ImageConsulting\ImageConsulting\bin\Debug\ImageConsulting.exe
+C:\Users\lucas\documents\visual studio 2013\Projects\ImageConsulting\ImageConsulting\bin\Debug\ImageConsulting.pdb
+C:\Users\lucas\documents\visual studio 2013\Projects\ImageConsulting\ImageConsulting\obj\Debug\ImageConsulting.exe
+C:\Users\lucas\documents\visual studio 2013\Projects\ImageConsulting\ImageConsulting\obj\Debug\ImageConsulting.pdb
